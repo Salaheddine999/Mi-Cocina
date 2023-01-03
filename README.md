@@ -1,5 +1,8 @@
 MiCocina is a React app to search for different meals and show their details, using 'The meal DB API'.
 
+Give it a try: https://mi-cocina-gilt.vercel.app/
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
